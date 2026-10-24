@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-la",
   "title": "Data La",
   "description": "DataLA MCP — Los Angeles open data (data.lacity.org, Socrata SODA API).",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "websiteUrl": "https://pipeworx.io/packs/data-la",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-la",
