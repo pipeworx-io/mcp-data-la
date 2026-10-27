@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-la",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "DataLA MCP — Los Angeles open data (data.lacity.org, Socrata SODA API).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-a14e6803d3192cbea2013c2ee3a73cac966205ed0df3ca05151e9a97fc71f350",
-    "sourceCommit": "01241619b78233fd55d0e3612331499a63f03ae7"
+    "sourceHash": "v1-913a06da1968283e7cdbb102733746e9a32009b5a2bfa3d35d9928acfe826745",
+    "sourceCommit": "ba9dd6df5992aeb16ef2425ee86d1752c34ca636"
   }
 }
